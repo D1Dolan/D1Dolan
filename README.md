@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Bio 
-Just a little bit about myself. Currently, I am a senior at Washington & Lee University in Lexington, Virginia. In school I am studying mathematics and data science. Some projects I've worked on include statistics in boxing with R and SQL database management. 
+Just a little bit about myself. Currently, I am a senior at Washington & Lee University in Lexington, Virginia. In school I am studying mathematics and data science. Some projects I've worked on include statistics in boxing with R and SQL database management. Some of these projects will be available on here in the coming weeks. 
 
 <!--
 **D1Dolan/D1Dolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
