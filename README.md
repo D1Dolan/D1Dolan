@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# Bio 
+Just a little bit about myself. Currently, I am a senior at Washington & Lee University in Lexington, Virginia. 
+
 <!--
 **D1Dolan/D1Dolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
